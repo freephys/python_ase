@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/projects/ase/!svn/ver/1007/trunk/ase/io
+END
+py.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/projects/ase/!svn/ver/36/trunk/ase/io/py.py
+END
+ascii.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projects/ase/!svn/ver/5/trunk/ase/io/ascii.py
+END
+xyz.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projects/ase/!svn/ver/970/trunk/ase/io/xyz.py
+END
+iwm.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/projects/ase/!svn/ver/1007/trunk/ase/io/iwm.py
+END
+cmdft.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/projects/ase/!svn/ver/1007/trunk/ase/io/cmdft.py
+END
+vnl.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projects/ase/!svn/ver/970/trunk/ase/io/vnl.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projects/ase/!svn/ver/1007/trunk/ase/io/__init__.py
+END
+plt.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projects/ase/!svn/ver/970/trunk/ase/io/plt.py
+END
+xsf.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projects/ase/!svn/ver/375/trunk/ase/io/xsf.py
+END
+cif.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/projects/ase/!svn/ver/1007/trunk/ase/io/cif.py
+END
+gpawtext.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projects/ase/!svn/ver/1002/trunk/ase/io/gpawtext.py
+END
+netcdf.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/projects/ase/!svn/ver/919/trunk/ase/io/netcdf.py
+END
+pov.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projects/ase/!svn/ver/970/trunk/ase/io/pov.py
+END
+babel.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/projects/ase/!svn/ver/812/trunk/ase/io/babel.py
+END
+pdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projects/ase/!svn/ver/874/trunk/ase/io/pdb.py
+END
+pupynere.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/projects/ase/!svn/ver/787/trunk/ase/io/pupynere.py
+END
+vasp.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/projects/ase/!svn/ver/741/trunk/ase/io/vasp.py
+END
+bader.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/projects/ase/!svn/ver/1004/trunk/ase/io/bader.py
+END
+cube.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/projects/ase/!svn/ver/970/trunk/ase/io/cube.py
+END
+png.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projects/ase/!svn/ver/387/trunk/ase/io/png.py
+END
+vtkxml.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/projects/ase/!svn/ver/970/trunk/ase/io/vtkxml.py
+END
+trajectory.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projects/ase/!svn/ver/947/trunk/ase/io/trajectory.py
+END
+mol.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projects/ase/!svn/ver/970/trunk/ase/io/mol.py
+END
+eps.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projects/ase/!svn/ver/970/trunk/ase/io/eps.py
+END
+dacapo.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/projects/ase/!svn/ver/970/trunk/ase/io/dacapo.py
+END

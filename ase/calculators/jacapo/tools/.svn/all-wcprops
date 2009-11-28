@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/ase/!svn/ver/838/trunk/ase/calculators/jacapo/tools
+END
+plotnetcdf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/ase/!svn/ver/838/trunk/ase/calculators/jacapo/tools/plotnetcdf
+END
+pysub
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/ase/!svn/ver/838/trunk/ase/calculators/jacapo/tools/pysub
+END
+ncsum
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/ase/!svn/ver/838/trunk/ase/calculators/jacapo/tools/ncsum
+END
+stripnetcdf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/ase/!svn/ver/838/trunk/ase/calculators/jacapo/tools/stripnetcdf
+END
+qn_relax
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/ase/!svn/ver/838/trunk/ase/calculators/jacapo/tools/qn_relax
+END

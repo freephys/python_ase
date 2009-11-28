@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/projects/ase/!svn/ver/970/trunk/ase/dft
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projects/ase/!svn/ver/970/trunk/ase/dft/__init__.py
+END
+stm.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/projects/ase/!svn/ver/970/trunk/ase/dft/stm.py
+END
+wannier.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/projects/ase/!svn/ver/970/trunk/ase/dft/wannier.py
+END
+dos.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/projects/ase/!svn/ver/970/trunk/ase/dft/dos.py
+END

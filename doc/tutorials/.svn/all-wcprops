@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projects/ase/!svn/ver/972/trunk/doc/tutorials
+END
+surface.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/ase/!svn/ver/614/trunk/doc/tutorials/surface.py
+END
+surface.rst
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/ase/!svn/ver/959/trunk/doc/tutorials/surface.rst
+END
+dissociation.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/ase/!svn/ver/253/trunk/doc/tutorials/dissociation.rst
+END
+manipulating_atoms.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/ase/!svn/ver/972/trunk/doc/tutorials/manipulating_atoms.py
+END
+manipulating_atoms.rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/ase/!svn/ver/449/trunk/doc/tutorials/manipulating_atoms.rst
+END
+association.rst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/ase/!svn/ver/218/trunk/doc/tutorials/association.rst
+END
+atomization.rst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/ase/!svn/ver/442/trunk/doc/tutorials/atomization.rst
+END
+N2.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projects/ase/!svn/ver/442/trunk/doc/tutorials/N2.py
+END
+stm-tutorial.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/ase/!svn/ver/487/trunk/doc/tutorials/stm-tutorial.rst
+END
+aneb.rst
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/ase/!svn/ver/218/trunk/doc/tutorials/aneb.rst
+END
+tutorials.rst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/ase/!svn/ver/876/trunk/doc/tutorials/tutorials.rst
+END
+saving_graphics.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/ase/!svn/ver/614/trunk/doc/tutorials/saving_graphics.py
+END
+N2Cu.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projects/ase/!svn/ver/876/trunk/doc/tutorials/N2Cu.py
+END

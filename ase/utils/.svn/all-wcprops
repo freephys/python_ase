@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/projects/ase/!svn/ver/1001/trunk/ase/utils
+END
+memory.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projects/ase/!svn/ver/1001/trunk/ase/utils/memory.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projects/ase/!svn/ver/970/trunk/ase/utils/__init__.py
+END
+molecule_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/ase/!svn/ver/722/trunk/ase/utils/molecule_test.py
+END
+eos.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/projects/ase/!svn/ver/425/trunk/ase/utils/eos.py
+END

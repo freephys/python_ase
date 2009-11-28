@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projects/ase/!svn/ver/970/trunk/doc/ase/calculators
+END
+mmtk.rst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/ase/!svn/ver/412/trunk/doc/ase/calculators/mmtk.rst
+END
+siesta.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/ase/!svn/ver/628/trunk/doc/ase/calculators/siesta.rst
+END
+vasp.rst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/ase/!svn/ver/717/trunk/doc/ase/calculators/vasp.rst
+END
+calculators.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/ase/!svn/ver/832/trunk/doc/ase/calculators/calculators.rst
+END
+NaCl.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/ase/!svn/ver/669/trunk/doc/ase/calculators/NaCl.py
+END
+INCAR_NaCl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/ase/!svn/ver/669/trunk/doc/ase/calculators/INCAR_NaCl
+END
+emt.rst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/ase/!svn/ver/508/trunk/doc/ase/calculators/emt.rst
+END
+abinit.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/ase/!svn/ver/970/trunk/doc/ase/calculators/abinit.rst
+END

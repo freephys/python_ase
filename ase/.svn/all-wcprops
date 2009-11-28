@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/projects/ase/!svn/ver/1014/trunk/ase
+END
+infrared.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/projects/ase/!svn/ver/918/trunk/ase/infrared.py
+END
+parallel.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/projects/ase/!svn/ver/788/trunk/ase/parallel.py
+END
+old.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/projects/ase/!svn/ver/970/trunk/ase/old.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/projects/ase/!svn/ver/971/trunk/ase/__init__.py
+END
+atom.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/projects/ase/!svn/ver/970/trunk/ase/atom.py
+END
+vibrations.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projects/ase/!svn/ver/970/trunk/ase/vibrations.py
+END
+units.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/projects/ase/!svn/ver/819/trunk/ase/units.py
+END
+xrdebye.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/projects/ase/!svn/ver/970/trunk/ase/xrdebye.py
+END
+atoms.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/projects/ase/!svn/ver/993/trunk/ase/atoms.py
+END
+neb.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/projects/ase/!svn/ver/970/trunk/ase/neb.py
+END
+version.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/projects/ase/!svn/ver/993/trunk/ase/version.py
+END
+constraints.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/projects/ase/!svn/ver/843/trunk/ase/constraints.py
+END

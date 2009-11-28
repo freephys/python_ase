@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/projects/ase/!svn/ver/979/trunk/ase/gui
+END
+rotate.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projects/ase/!svn/ver/381/trunk/ase/gui/rotate.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/projects/ase/!svn/ver/82/trunk/ase/gui/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projects/ase/!svn/ver/549/trunk/ase/gui/settings.py
+END
+execute.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/projects/ase/!svn/ver/970/trunk/ase/gui/execute.py
+END
+neb.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/projects/ase/!svn/ver/970/trunk/ase/gui/neb.py
+END
+bulk_modulus.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/ase/!svn/ver/970/trunk/ase/gui/bulk_modulus.py
+END
+images.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projects/ase/!svn/ver/970/trunk/ase/gui/images.py
+END
+widgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/projects/ase/!svn/ver/2/trunk/ase/gui/widgets.py
+END
+constraints.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/ase/!svn/ver/970/trunk/ase/gui/constraints.py
+END
+view.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/projects/ase/!svn/ver/971/trunk/ase/gui/view.py
+END
+dft.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/projects/ase/!svn/ver/970/trunk/ase/gui/dft.py
+END
+movie.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/projects/ase/!svn/ver/970/trunk/ase/gui/movie.py
+END
+repeat.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projects/ase/!svn/ver/970/trunk/ase/gui/repeat.py
+END
+status.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projects/ase/!svn/ver/970/trunk/ase/gui/status.py
+END
+graphs.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projects/ase/!svn/ver/970/trunk/ase/gui/graphs.py
+END
+gui.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/projects/ase/!svn/ver/979/trunk/ase/gui/gui.py
+END
+debug.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/projects/ase/!svn/ver/2/trunk/ase/gui/debug.py
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/projects/ase/!svn/ver/1013/trunk/ase/md
+END
+velocitydistribution.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/ase/!svn/ver/1008/trunk/ase/md/velocitydistribution.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/projects/ase/!svn/ver/970/trunk/ase/md/__init__.py
+END
+npt.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projects/ase/!svn/ver/755/trunk/ase/md/npt.py
+END
+verlet.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/projects/ase/!svn/ver/970/trunk/ase/md/verlet.py
+END
+langevin.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projects/ase/!svn/ver/1013/trunk/ase/md/langevin.py
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/ase/!svn/ver/917/trunk/ase/calculators/jacapo/utils
+END
+bader.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/ase/!svn/ver/917/trunk/ase/calculators/jacapo/utils/bader.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/ase/!svn/ver/870/trunk/ase/calculators/jacapo/utils/__init__.py
+END
+wannier.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/ase/!svn/ver/916/trunk/ase/calculators/jacapo/utils/wannier.py
+END
+bandstructure.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/ase/!svn/ver/917/trunk/ase/calculators/jacapo/utils/bandstructure.py
+END

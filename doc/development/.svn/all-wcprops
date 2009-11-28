@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/projects/ase/!svn/ver/950/trunk/doc/development
+END
+newrelease.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/ase/!svn/ver/878/trunk/doc/development/newrelease.rst
+END
+development.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/ase/!svn/ver/879/trunk/doc/development/development.rst
+END
+tests.rst
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/ase/!svn/ver/909/trunk/doc/development/tests.rst
+END
+writing_documentation_ase.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/ase/!svn/ver/950/trunk/doc/development/writing_documentation_ase.rst
+END
+python_codingstandard.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/ase/!svn/ver/876/trunk/doc/development/python_codingstandard.rst
+END
+todo.rst
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/ase/!svn/ver/508/trunk/doc/development/todo.rst
+END

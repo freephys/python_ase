@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projects/ase/!svn/ver/1012/trunk/ase/optimize
+END
+lbfgs.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/ase/!svn/ver/1012/trunk/ase/optimize/lbfgs.py
+END
+oldqn.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projects/ase/!svn/ver/519/trunk/ase/optimize/oldqn.py
+END
+qn.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/projects/ase/!svn/ver/928/trunk/ase/optimize/qn.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/ase/!svn/ver/995/trunk/ase/optimize/__init__.py
+END
+mdmin.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projects/ase/!svn/ver/970/trunk/ase/optimize/mdmin.py
+END
+fire.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projects/ase/!svn/ver/970/trunk/ase/optimize/fire.py
+END
